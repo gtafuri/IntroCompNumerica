@@ -1,1 +1,5 @@
-readme
+Exercícios e trabalhos da disciplina Introdução à Computação Númerica de Ciência da Computação UFRJ 2025.1
+Todos os arquivos foram criados no google collab, com python e bibliotecas condizentes para manipulação númerica e criação de gráficos
+-> MTR = Aplicação do metódo de trapezios repetidos em funções contínuas
+-> Trabalho Final = Implementação do metódo de Euler para PVIs, aplicação do modelo presa-predador e analíse de modelo real presa-predador
+-> Exercícios = Conjunto de exercícios em aula de diversos conteúdos
